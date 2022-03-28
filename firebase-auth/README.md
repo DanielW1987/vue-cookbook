@@ -1,5 +1,10 @@
 # Firebase Authentication Demo
 
+- <https://www.youtube.com/watch?v=uqpM7WVTKI4&list=WL&index=45&t=1330s>
+- <https://www.youtube.com/watch?v=ULFAgn2ITko>
+- <https://www.youtube.com/watch?v=MdZCRP2uKdE&list=WL&index=51&t=33s>
+- <https://www.youtube.com/watch?v=MoBYBc1dkhE&list=WL&index=17>
+
 ## Prerequisites
 
 Put your Firebase API Key in file `.env.development`.
